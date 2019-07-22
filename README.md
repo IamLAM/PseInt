@@ -8,5 +8,5 @@ _Este es un curso de metodología de la programación para ayudar al aprendizaje
 
 ### Pre-requisitos :white_check_mark:
 
-* [PseInt] (http://pseint.sourceforge.net/) - Software a utilizar
+* [PseInt](http://pseint.sourceforge.net/) - Software a utilizar
 
