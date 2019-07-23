@@ -61,7 +61,8 @@ numero>numero2 & numero<numero2
 ```
 _Si analizamos por partes el ejercicio anterior, la primer comparativa nos pregunta si numero es mayor a numero2, lo cual es ***FALSO***
 
-debido a que numero vale 1 y numero 2 vale 2. En la segunda comparativa: nos pregunta si numero es menor que numero 2, lo cual es ***VERDADERO***; sin embargo al momento de tener una expresión ***lógica &***, ambas expresiones se evaluan al mismo tiempo, en este caso tenemos que la primera expresión es ***VERDADERO*** &  la segunda ***FALSO**, entonces el resultado final será: ***FALSO***_
+debido a que numero vale 1 y numero 2 vale 2. En la segunda comparativa: nos pregunta si numero es menor que numero 2, lo cual es ***VERDADERO***; sin embargo al momento de tener una expresión ***lógica &***, ambas expresiones se evaluan al mismo tiempo, en este caso tenemos que la primera expresión es ***VERDADERO*** &  la segunda ***FALSO***, entonces el resultado final será: ***FALSO***_ 
+
 
  Valor obtenido | Valor obtenido | Resultado
 ----------|---------------------------------
