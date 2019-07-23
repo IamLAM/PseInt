@@ -48,7 +48,7 @@ variable<-expresion
   Simbolo | Significado
 ----------|------------
 &         | y
-```javascript |  ```   | OR 
+&#124;   | OR 
 ~         | Negación
 
 * El simbolo &, ayuda a identificar si dos valores cumplen  dos condiciones.
