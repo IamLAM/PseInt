@@ -22,6 +22,15 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 7. Estructuras anidadas 
 8. Estructura múltiple SEGUN
 9. Estructura de repetición MIENTRAS
+
+
+```PseInt
+	Mientras expresion_logica Hacer
+		secuencia_de_acciones
+	Fin Mientras
+```
+
+
 10. Estructura de repetición REPETIR
 11. Estructura de repetición PARA
 12. Arreglos unidimensionales
