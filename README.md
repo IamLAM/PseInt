@@ -32,6 +32,14 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 
 
 10. Estructura de repetición REPETIR
+
+```PseInt
+	Repetir
+		secuencia_de_acciones
+	Hasta Que expresion_logica
+
+```
+
 11. Estructura de repetición PARA
 12. Arreglos unidimensionales
 13. Arreglos bidimensionales
