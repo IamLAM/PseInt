@@ -21,7 +21,7 @@ variable<-expresion
 3. Expresiones aritméticas
 4. Expresiones relacionales
 5. Expresiones lógicas
-6. Estructuras simples Si Entonces
+6. Estructuras simples ***Si Entonces***
 
 
 ```PseInt
@@ -33,7 +33,7 @@ variable<-expresion
 ```
 
 7. Estructuras anidadas 
-8. Estructura múltiple SEGUN
+8. Estructura múltiple ***SEGUN***
  ```PseInt
 Segun variable_numerica Hacer
 	opcion_1:
@@ -46,7 +46,7 @@ Segun variable_numerica Hacer
 		secuencia_de_acciones_dom
 Fin Segun
 ```
-9. Estructura de repetición MIENTRAS
+9. Estructura de repetición ***MIENTRAS***
 
 
 ```PseInt
@@ -56,7 +56,7 @@ Fin Segun
 ```
 
 
-10. Estructura de repetición REPETIR
+10. Estructura de repetición ***REPETIR***
 
 ```PseInt
 	Repetir
@@ -65,7 +65,7 @@ Fin Segun
 
 ```
 
-11. Estructura de repetición PARA
+11. Estructura de repetición ***PARA***
 ```PseInt
 	Para variable_numerica<-valor_inicial Hasta valor_final Con Paso paso Hacer
 		secuencia_de_acciones
