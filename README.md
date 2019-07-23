@@ -13,6 +13,7 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 
 ### Ejercicios
 1. Escritura y lectura de datos
+
 2. Definición de variables y operadores
     * Asignaciones
 ```PseInt
@@ -22,10 +23,10 @@ variable<-expresion
 
   Simbolo | Significado
 ----------|------------
-+         | Suma
--         | Resta
-/         | División
-*         | Multiplicación
+`+`         | Suma
+`-`         | Resta
+`/`         | División
+`* `        | Multiplicación
 
 4. Expresiones relacionales :collision:
 5. Expresiones lógicas :collision:
