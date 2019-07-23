@@ -19,15 +19,37 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 4. Expresiones relacionales
 5. Expresiones lógicas
 6. Estructuras simples Si Entonces
+
+
+   ```PseInt
+    Si expresion_logica Entonces
+		acciones_por_verdadero
+	SiNo
+		acciones_por_falso
+	Fin Si
+   ```
+
 7. Estructuras anidadas 
 8. Estructura múltiple SEGUN
+ ```PseInt
+Segun variable_numerica Hacer
+	opcion_1:
+		secuencia_de_acciones_1
+	opcion_2:
+		secuencia_de_acciones_2
+	opcion_3:
+		secuencia_de_acciones_3
+	De Otro Modo:
+		secuencia_de_acciones_dom
+Fin Segun
+```
 9. Estructura de repetición MIENTRAS
 
 
 ```PseInt
-	**Mientras** expresion_logica **Hacer**
+	Mientras expresion_logica Hacer
 		secuencia_de_acciones
-	**Fin Mientras**
+	Fin Mientras
 ```
 
 
@@ -41,6 +63,11 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 ```
 
 11. Estructura de repetición PARA
+```PseInt
+	Para variable_numerica<-valor_inicial Hasta valor_final Con Paso paso Hacer
+		secuencia_de_acciones
+	Fin Para
+```
 12. Arreglos unidimensionales
 13. Arreglos bidimensionales
 14. Operaciones básicas con arreglos unidimensionales
