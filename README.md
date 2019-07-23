@@ -26,9 +26,20 @@ variable<-expresion
 `+`         | Suma
 `-`         | Resta
 `/`         | División
-`* `        | Multiplicación
+`*`        | Multiplicación
+`%`        | Modulo
 
 4. Expresiones relacionales :collision:
+ Simbolo | Significado
+----------|------------
+`<`         | Menor que
+`>`         | Mayor que
+`<=`         | Menor o igual que
+`>=`        | Mayor o igual que
+`==`        | Es igual a
+`!=`        | Es diferente de
+`=`        | Asignar un valor 
+`<-`        | Asignar un valor PSeInt
 5. Expresiones lógicas :collision:
 6. Estructuras simples ***Si Entonces***
 
