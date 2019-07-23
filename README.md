@@ -30,6 +30,8 @@ variable<-expresion
 `%`        | Modulo
 
 4. Expresiones relacionales :collision:
+
+
  Simbolo | Significado
 ----------|------------
 `<`         | Menor que
@@ -40,6 +42,8 @@ variable<-expresion
 `!=`        | Es diferente de
 `=`        | Asignar un valor 
 `<-`        | Asignar un valor PSeInt
+
+
 5. Expresiones lógicas :collision:
 6. Estructuras simples ***Si Entonces***
 
