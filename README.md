@@ -1,4 +1,4 @@
-# Aprendiendo a programar con PseInt :computer:
+# Aprendiendo a programar con PseInt :alien: :computer: 
 
 _Autor: Luis Angel Monge_
 
@@ -24,5 +24,11 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 9. Estructura de repetición MIENTRAS
 10. Estructura de repetición REPETIR
 11. Estructura de repetición PARA
-12. Funciones
+12. Arreglos unidimensionales
+13. Arreglos bidimensionales
+14. Operaciones básicas con arreglos unidimensionales
+15. Métodos de ordenamiento
+    * Burbuja
+    * Burbuja mejorado
+16. Funciones
 
