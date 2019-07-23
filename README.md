@@ -1,12 +1,28 @@
-# Aprendiendo a programar con PseInt :smiley:
+# Aprendiendo a programar con PseInt :computer:
 
 _Autor: Luis Angel Monge_
 
 ## Descripción
 
-_Este es un curso de metodología de la programación para ayudar al aprendizaje de desarrollo de aplicaciones por medio de PseInt_
+_Este es un curso de metodología de la programación que sirve como introducción al aprendizaje de lógica y desarrollo con PseInt_
 
 ### Pre-requisitos :white_check_mark:
 
 * [PseInt](http://pseint.sourceforge.net/) - Software a utilizar
+
+
+### Ejercicios
+1. Escritura y lectura de datos
+2. Definición de variables y operadores
+    * Asignaciones
+3. Expresiones aritméticas
+4. Expresiones relacionales
+5. Expresiones lógicas
+6. Estructuras simples Si Entonces
+7. Estructuras anidadas 
+8. Estructura múltiple SEGUN
+9. Estructura de repetición MIENTRAS
+10. Estructura de repetición REPETIR
+11. Estructura de repetición PARA
+12. Funciones
 
