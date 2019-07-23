@@ -15,19 +15,22 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 1. Escritura y lectura de datos
 2. Definición de variables y operadores
     * Asignaciones
+```PseInt
+variable<-expresion
+```
 3. Expresiones aritméticas
 4. Expresiones relacionales
 5. Expresiones lógicas
 6. Estructuras simples Si Entonces
 
 
-   ```PseInt
+```PseInt
     Si expresion_logica Entonces
 		acciones_por_verdadero
 	SiNo
 		acciones_por_falso
 	Fin Si
-   ```
+```
 
 7. Estructuras anidadas 
 8. Estructura múltiple SEGUN
