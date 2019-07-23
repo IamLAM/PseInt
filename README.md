@@ -59,7 +59,7 @@ numero2<-2;
 numero>numero2 & numero<numero2
 
 ```
-_Si analizamos por partes el ejercicio anterior, la primer comparativa nos pregunta si numero es mayor a numero2, lo cual es ***FALSO*** debido a que numero vale 1 y numero 2 vale 2. En la segunda comparativa: nos pregunta si numero es menor que numero 2, lo cual es ***VERDADERO***; sin embargo al momento de tener una expresión ***lógica &***, ambas expresiones se evaluan al mismo tiempo, en este caso tenemos que la primera expresión es ***VERDADERO*** &  la segunda ***FALSO***, entonces el resultado final será: ***FALSO***_ 
+_Si analizamos por partes el ejercicio anterior, la primer comparativa nos pregunta si numero es mayor a numero2, lo cual es ***FALSO*** debido a que numero vale 1 y numero2 vale 2. En la segunda comparativa: nos pregunta si numero es menor que numero 2, lo cual es ***VERDADERO***; sin embargo, al momento de tener una expresión ***lógica &***, ambas expresiones se evaluan al mismo tiempo, en este caso tenemos que la primera expresión es ***VERDADERO*** &  la segunda ***FALSO***, entonces el resultado final de toda la comparativa numero>numero2 & numero<numero2   será: ***FALSO***_ 
 
 
  Valor obtenido | Valor obtenido | Resultado
@@ -68,6 +68,24 @@ VERDERO   | VERDADERO | VERDADERO
 FALSO     | FALSO     | FALSO
 VERDADERO | FALSO     | FALSO
 FALSO     | VERDADERO | FALSO
+
+**Como puedes notar, solo cuando ambas o todas las condiciones se cumplan, sera ***VERDADERO***
+
+```PseInt
+numero<-1;
+numero2<-2;
+numero>numero2 | numero<numero2
+
+```
+
+_Si el mismo ejercicio, pero ahora  utilizando el ***operador |*** , la primera expresión es ***VERDADERO*** y  la segunda es ***FALSO***, pero si añadimos el operador OR --> |   será: ***VERDADERO***, en este caso, se debe que con alguna comparativa que se cumpla siempre sera VERDADERO_ 
+
+ Valor obtenido | Valor obtenido | Resultado
+----------|------------|---------------------
+VERDERO   | VERDADERO | VERDADERO
+FALSO     | FALSO     | FALSO
+VERDADERO | FALSO     | VERDADERO
+FALSO     | VERDADERO | VERDADERO
 
 
 6. Estructuras simples ***Si Entonces***
