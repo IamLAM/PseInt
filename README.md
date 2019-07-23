@@ -18,9 +18,17 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 ```PseInt
 variable<-expresion
 ```
-3. Expresiones aritméticas
-4. Expresiones relacionales
-5. Expresiones lógicas
+3. Expresiones aritméticas :collision:
+
+  Simbolo | Significado
+----------|------------
++         | Suma
+-         | Resta
+/         | División
+*         | Multiplicación
+
+4. Expresiones relacionales :collision:
+5. Expresiones lógicas :collision:
 6. Estructuras simples ***Si Entonces***
 
 
