@@ -25,9 +25,9 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 
 
 ```PseInt
-	Mientras expresion_logica Hacer
+	**Mientras** expresion_logica **Hacer**
 		secuencia_de_acciones
-	Fin Mientras
+	**Fin Mientras**
 ```
 
 
