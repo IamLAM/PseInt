@@ -88,7 +88,7 @@ VERDADERO | FALSO     | VERDADERO
 FALSO     | VERDADERO | VERDADERO
 
 
-6. Estructuras simples ***Si Entonces***
+6. Estructuras simples ***Si Entonces*** :zap:
 
 
 ```PseInt
@@ -100,7 +100,7 @@ FALSO     | VERDADERO | VERDADERO
 ```
 
 7. Estructuras anidadas 
-8. Estructura múltiple ***SEGUN***
+8. Estructura múltiple ***SEGUN*** :zap:
  ```PseInt
 Segun variable_numerica Hacer
 	opcion_1:
@@ -113,7 +113,7 @@ Segun variable_numerica Hacer
 		secuencia_de_acciones_dom
 Fin Segun
 ```
-9. Estructura de repetición ***MIENTRAS***
+9. Estructura de repetición ***MIENTRAS*** :zap:
 
 
 ```PseInt
@@ -123,7 +123,7 @@ Fin Segun
 ```
 
 
-10. Estructura de repetición ***REPETIR***
+10. Estructura de repetición ***REPETIR*** :zap:
 
 ```PseInt
 	Repetir
@@ -131,8 +131,8 @@ Fin Segun
 	Hasta Que expresion_logica
 
 ```
-
-11. Estructura de repetición ***PARA***
+ 
+11. Estructura de repetición ***PARA*** :zap:
 ```PseInt
 	Para variable_numerica<-valor_inicial Hasta valor_final Con Paso paso Hacer
 		secuencia_de_acciones
