@@ -48,7 +48,7 @@ variable<-expresion
   Simbolo | Significado
 ----------|------------
 &         | y
-|         | o 
+```|```         | o 
 ~         | Negación
 
 * El simbolo &, ayuda a identificar si dos valores cumplen  dos condiciones.
