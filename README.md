@@ -51,7 +51,7 @@ variable<-expresion
 &#124;   | O  (Letra O) 
 ~         | Negación
 
-* El simbolo &, ayuda a identificar si dos valores cumplen  dos condiciones.
+* El simbolo &, ayuda a identificar si se cumplen  dos condiciones.
 
 ```PseInt
 numero<-1;
