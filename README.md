@@ -145,4 +145,9 @@ Fin Segun
     * Burbuja
     * Burbuja mejorado
 16. Funciones
-
+17. Serie de ejercicios
+    * Ordenamientos
+    * Par e impar
+    * Solicita una pizza
+    * Adivina el numero
+    * Algebra básica
