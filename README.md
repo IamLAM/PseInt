@@ -151,3 +151,9 @@ Fin Segun
     * Solicita una pizza
     * Adivina el numero
     * Algebra básica
+	* Gestión de agenda
+    * Calculo de figuras
+    * Adivina el acertijo
+    * Conversiones 
+    * Simular un reloj digital
+    * Tienda de autoservicio
