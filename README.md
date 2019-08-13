@@ -141,12 +141,11 @@ Fin Segun
 12. Arreglos unidimensionales
 13. Arreglos bidimensionales
 14. Operaciones básicas con arreglos unidimensionales
-15. Métodos de ordenamiento
-    * Burbuja
-    * Burbuja mejorado
-16. Funciones
-17. Serie de ejercicios
-    * Ordenamientos
+15. Funciones
+16. Serie de ejercicios
+	* Métodos de ordenamiento
+    	* Burbuja
+    	* Burbuja mejorado
     * Par e impar
     * Solicita una pizza
     * Adivina el numero
