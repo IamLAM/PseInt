@@ -143,6 +143,7 @@ Fin Segun
 14. Operaciones básicas con arreglos unidimensionales
 15. Funciones
 16. Serie de ejercicios
+	* Nivel de procedencia de operadores
 	* Métodos de ordenamiento
     	* Burbuja
     	* Burbuja mejorado
