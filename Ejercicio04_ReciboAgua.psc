@@ -1,4 +1,4 @@
-Algoritmo sumas
+Algoritmo ReciboAgua
 	
 	Escribir "Dime cuanto dinero te cobraron por el agua"
 	Leer cantidadDinero
