@@ -1,7 +1,7 @@
 Algoritmo expresiones
 	Escribir "¿Deseas jugar?"
 	Leer respuesta
-	Si (respuesta="si") O (respuesta="seguro") Entonces
+	Si NO (respuesta='si') Entonces
 		Escribir 'Quiere jugar'
 	SiNo
 		Escribir 'No le gusta jugar'
