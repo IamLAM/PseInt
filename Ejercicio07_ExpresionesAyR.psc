@@ -6,7 +6,7 @@ Algoritmo expresiones
 	Si a<b Entonces
 		Escribir "a es menor b"
 	Sino
-		Escribir "a es menor b"
+		Escribir "a es mayor que b"
 	FinSi
 	
 FinAlgoritmo
