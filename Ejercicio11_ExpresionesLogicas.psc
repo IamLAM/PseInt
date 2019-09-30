@@ -1,5 +1,5 @@
 Algoritmo expresiones
-	Definir respuesta como Caracter;
+	Definir respuesta Como Caracter;
 	Escribir "¿Deseas jugar?"
 	Leer respuesta
 	Si NO (respuesta='si') Entonces
