@@ -1,4 +1,5 @@
 Algoritmo expresiones
+	Definir respuesta como Cadena;
 	Escribir "¿Deseas jugar?"
 	Leer respuesta
 	Si NO (respuesta='si') Entonces
