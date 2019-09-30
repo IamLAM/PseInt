@@ -1,4 +1,5 @@
 Algoritmo expresiones
+	Definir respuesta como Caracter;
 	Escribir "¿Deseas jugar?"
 	Leer respuesta
 	Si (respuesta="si") O (respuesta="seguro") Entonces
