@@ -1,5 +1,5 @@
 Algoritmo expresiones
-	
+	Definir respuesta como Caracter;
 	Escribir "Desea ordenar algo más?"
 	Leer respuesta;
 	Si respuesta="si" Entonces
