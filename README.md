@@ -13,9 +13,23 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 
 ### Ejercicios
 1. Escritura y lectura de datos
-
+```PseInt
+[palabra reservada] [Mensaje entre comillas o variable]
+Escribir "";
+Escribir [nombre variable];
+```
+Ejemplo:
+```PseInt
+Escribir "Este es un mensaje";
+Escribir respuesta;
+```
 2. Definición de variables y operadores
-    * Asignaciones
+    * Declaración de variables
+```PseInt
+[palabra reservada] [nombre variable][palabra reservada][tipo de dato]
+Definir respuesta Como Caracter;
+```
+Ejemplo:
 ```PseInt
 variable<-expresion
 ```
