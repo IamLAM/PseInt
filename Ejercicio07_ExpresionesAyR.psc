@@ -1,4 +1,5 @@
 Algoritmo expresiones
+	Definir a,b como Entero;
 	a <- 5
 	b <- 6
 	Si a<b Entonces
