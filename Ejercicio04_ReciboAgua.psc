@@ -1,5 +1,5 @@
 Algoritmo ReciboAgua
-	
+	Definir cantidadDinero como Entero;
 	Escribir "Dime cuanto dinero te cobraron por el agua"
 	Leer cantidadDinero
 	Si cantidadDinero>=800 Entonces
