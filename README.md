@@ -12,7 +12,7 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 
 
 ### Ejercicios
-1. Escritura y lectura de datos
+1. Escritura y lectura de datos: El término escritura se refiere a MOSTRAR información en la pantalla de la computadora. Lectura, hace referencia a que esperará a que una PERSONA ESCRIBA un valor con su teclado
 ```PseInt
 [palabra reservada] [Mensaje entre comillas o variable]
 Escribir "";
@@ -23,6 +23,17 @@ Ejemplo:
 Escribir "Este es un mensaje";
 Escribir respuesta;
 ```
+
+```PseInt
+[palabra reservada] [variable]
+Leer [nombre variable];
+```
+Ejemplo:
+```PseInt
+Leer respuesta;
+```
+
+
 2. Definición de variables y operadores
     * Declaración de variables
 ```PseInt
