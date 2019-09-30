@@ -1,5 +1,7 @@
 Algoritmo sumas
 	
+
+	Definir valor1,valor2 como Entero;
 	Escribir "Dime cual es tu primer valor de la suma"
 	Leer valor1
 	Escribir "Dime cual es tu segundo valor de la suma"
