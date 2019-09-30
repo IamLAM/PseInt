@@ -1,6 +1,6 @@
 # Aprendiendo a programar con PseInt :alien: :computer: 
 
-_Autor: Luis Angel Monge_
+_Autor: Luis Angel Monge profesor@luismonge.com.mx
 
 ## Descripción
 
