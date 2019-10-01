@@ -12,7 +12,7 @@ _Este es un curso de metodología de la programación que sirve como introducci�
 
 
 ### Ejercicios
-1. Escritura y lectura de datos: El término escritura se refiere a MOSTRAR información en la pantalla de la computadora. Lectura, hace referencia a que esperará a que una PERSONA ESCRIBA un valor con su teclado
+1. ***Escritura y lectura de datos:*** El término escritura se refiere a MOSTRAR información en la pantalla de la computadora. Lectura, hace referencia a que esperará a que una PERSONA ESCRIBA un valor con su teclado
 ```PseInt
 [palabra reservada] [Mensaje entre comillas o variable]
 Escribir "";
@@ -34,7 +34,7 @@ Leer respuesta;
 ```
 
 
-2. Definición de variables y operadores
+2. ***Definición de variables*** : La definición de variables ayudan a identificar el conjunto de palabras que se utilizarán durante tu programa. Estas "palabras" mejor conocidas como variables, almacenarán información de distinto tipo: textos, numeros enteros, numeros decimales.
     * Declaración de variables
 ```PseInt
 [palabra reservada] [nombre variable][palabra reservada][tipo de dato]
