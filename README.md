@@ -84,6 +84,12 @@ Logico    | Booleanos o valores [1,0,true,false]
 `<-`        | Asignar un valor PSeInt
 
 
+
+***Código de ejemplo:*** [Uso de expresiones](https://github.com/IamLAM/PSeInt/blob/master/Ejercicio07_ExpresionesAyR.psc)
+
+
+
+
 5. Expresiones lógicas :collision:
 
 
