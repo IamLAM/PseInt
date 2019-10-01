@@ -137,11 +137,12 @@ FALSO     | VERDADERO | VERDADERO
 
 
 ***Código de ejemplo:*** 
- *[Uso de expresiones lógicas](https://github.com/IamLAM/PSeInt/blob/master/Ejercicio09_ExpresionesLogicas.psc)
- 
- *[Uso de expresiones lógicas](https://github.com/IamLAM/PSeInt/blob/master/Ejercicio10_ExpresionesLogicas.psc)
 
- *[Uso de expresiones lógicas](https://github.com/IamLAM/PSeInt/blob/master/Ejercicio11_ExpresionesLogicas.psc)
+ *[Uso de expresiones lógicas Y](https://github.com/IamLAM/PSeInt/blob/master/Ejercicio09_ExpresionesLogicas.psc)
+ 
+ *[Uso de expresiones lógicas O](https://github.com/IamLAM/PSeInt/blob/master/Ejercicio10_ExpresionesLogicas.psc)
+
+ *[Uso de expresiones lógicas NO](https://github.com/IamLAM/PSeInt/blob/master/Ejercicio11_ExpresionesLogicas.psc)
 
 
 
