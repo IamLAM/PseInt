@@ -11,5 +11,6 @@ Algoritmo definiciones
 	Leer edad;
 	Escribir "Cuánto te dinero te gustaría ganar?";	
 	Leer salario;
-	
+	Escribir "Te gusta el mariachi?(Responde 1 si tu respuesta es SI, 0 si es NO)"
+	Leer respuesta;
 FinAlgoritmo
