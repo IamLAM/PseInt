@@ -136,6 +136,20 @@ VERDADERO | FALSO     | VERDADERO
 FALSO     | VERDADERO | VERDADERO
 
 
+***Código de ejemplo:*** 
+ *[Uso de expresiones lógicas](https://github.com/IamLAM/PSeInt/blob/master/Ejercicio09_ExpresionesLogicas.psc)
+ 
+ *[Uso de expresiones lógicas](https://github.com/IamLAM/PSeInt/blob/master/Ejercicio10_ExpresionesLogicas.psc)
+
+ *[Uso de expresiones lógicas](https://github.com/IamLAM/PSeInt/blob/master/Ejercicio11_ExpresionesLogicas.psc)
+
+
+
+
+
+
+
+
 6. Estructuras simples ***Si Entonces*** :zap:
 
 
