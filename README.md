@@ -32,7 +32,7 @@ Ejemplo:
 ```PseInt
 Leer respuesta;
 ```
-
+***Código de ejemplo:*** [Escritura y Lectura](https://github.com/IamLAM/PSeInt/blob/master/Definiciones.psc)
 
 2. ***Definición de variables*** : La definición de variables ayudan a identificar el conjunto de palabras que se utilizarán durante tu programa. Estas "palabras" mejor conocidas como variables, almacenarán información de distinto tipo: textos, numeros enteros, numeros decimales.
     * Declaración de variables
@@ -47,6 +47,9 @@ Definir respuesta Como Entero;
 Definir respuesta Como Real;
 Definir respuesta Como Logico;
 ```
+
+***Código de ejemplo:*** [Tipos de variables](https://github.com/IamLAM/PSeInt/blob/master/Definiciones.psc)
+
 
 En pseint existen cuatro tipos de datos:
 
