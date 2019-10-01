@@ -4,8 +4,21 @@ Algoritmo expresiones
 	b <- 6
 	Si a<b Entonces
 		Escribir 'a es menor b'
-	SiNo
-		Escribir 'a es mayor que b'
 	FinSi
+	Si a>b Entonces
+		Escribir 'a es mayor b'
+	FinSi
+	Si a<=b Entonces
+		Escribir 'a es menor o igual b'
+	FinSi
+	Si a>=b Entonces
+		Escribir 'a es mayor o igual b'
+	FinSi
+	Si a!=b Entonces
+		Escribir 'a es diferente b'
+	FinSi
+
+	
+	
 FinAlgoritmo
 
