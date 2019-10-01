@@ -48,7 +48,8 @@ Definir respuesta Como Real;
 Definir respuesta Como Logico;
 ```
 
-En pseint existen cuatro tipos de datos
+En pseint existen cuatro tipos de datos:
+
   Simbolo | Significado
 ----------|------------
 Caracter  | Textos entrecomillados
