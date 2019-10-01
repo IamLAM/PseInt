@@ -48,7 +48,7 @@ Definir respuesta Como Real;
 Definir respuesta Como Logico;
 ```
 
-***Código de ejemplo:*** [Tipos de variables](https://github.com/IamLAM/PSeInt/blob/master/Definiciones.psc)
+***Código de ejemplo:*** [Tipos de variables](https://github.com/IamLAM/PSeInt/blob/master/TiposDeDatos.psc)
 
 
 En pseint existen cuatro tipos de datos:
