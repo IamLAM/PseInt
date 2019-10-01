@@ -38,12 +38,25 @@ Leer respuesta;
     * Declaración de variables
 ```PseInt
 [palabra reservada] [nombre variable][palabra reservada][tipo de dato]
-Definir respuesta Como Caracter;
+Definir [nombre variable] Como [Caracter,Entero,Real,Logico]
 ```
 Ejemplo:
 ```PseInt
-variable<-expresion
+Definir respuesta Como Caracter;
+Definir respuesta Como Entero;
+Definir respuesta Como Real;
+Definir respuesta Como Logico;
 ```
+
+En pseint existen cuatro tipos de datos
+  Simbolo | Significado
+----------|------------
+Caracter  | Textos entrecomillados
+Enteros   | Numeros 1,2,3...n
+Real      | Decimales 1.1,2.1,3.3...n
+Logico    | Booleanos o valores [1,0,true,false]
+
+
 3. Expresiones aritméticas :collision:
 
   Simbolo | Significado
