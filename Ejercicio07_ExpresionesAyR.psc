@@ -1,7 +1,10 @@
 Algoritmo expresiones
 	Definir a,b como Entero;
-	a <- 5
-	b <- 6
+	
+	Escribir "Escribe el valor de a";
+	Leer a;
+	Escribir "Escribe el valor de b";
+	Leer b;
 	Si a<b Entonces
 		Escribir 'a es menor b'
 	FinSi
