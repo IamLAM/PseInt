@@ -156,9 +156,18 @@ FALSO     | VERDADERO | VERDADERO
 
 ```PseInt
 Si expresion_logica Entonces
-		acciones_por_verdadero
+	acciones_por_verdadero
 SiNo
-		acciones_por_falso
+	acciones_por_falso
+Fin Si
+```
+Por ejemplo:
+
+```PseInt
+Si 5>10 Entonces
+	Escribir "Si, el valor cinco es mayor a diez";
+SiNo
+	Escribir "Imposible, cinco no es mayor a diez xD";
 Fin Si
 ```
 
