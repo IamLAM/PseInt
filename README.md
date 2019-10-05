@@ -172,7 +172,39 @@ Fin Si
 ```
 ***Código de ejemplo:***[Estructura simple](https://github.com/IamLAM/PseInt/blob/master/EstructurasSimples.psc) 
 
-7. ***Estructuras anidadas*** 
+7. ***Estructuras anidadas*** :La estructura ***si...entonces anidada*** consiste en agregar otra condición si...entonces dentro de otra, tanto en el caso que la condición sea verdadera y sea falsa.Puede anidarse las veces que sean necesarias. Para clarificar este concepto, observar los siguientes ejemplos:
+
+```PseInt
+Si expresion_logica Entonces
+	acciones_por_verdadero
+	Si expresion_logica Entonces
+		acciones_por_verdadero
+	SiNo
+		acciones_por_falso
+	Fin Si
+SiNo
+	acciones_por_falso
+Fin Si
+```
+
+En el siguiente ejemplo de si anidados, primero se válida si 10 es mayor a 5, si esto ocurre, entonces la condición será verdadera e ingresará a evaluar si el valor de 10 es mayor a dos.
+
+```PseInt
+Si 10>5 Entonces
+	Escribir "Si, el valor diez es mayor a cinco";
+	Si 10>2 Entonces
+		Escribir "Si, el valor diez es mayor a dos";
+	SiNo
+		Escribir "Nunca se mostrará el mensaje";
+	Fin Si
+SiNo
+	Escribir "Imposible, cinco no es mayor a diez xD";
+Fin Si
+```
+
+
+
+
 8. Estructura múltiple ***SEGUN*** :zap:
  ```PseInt
 Segun variable_numerica Hacer
