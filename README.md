@@ -198,7 +198,7 @@ Si 10>5 Entonces
 		Escribir "Nunca se mostrará el mensaje";
 	Fin Si
 SiNo
-	Escribir "Imposible, cinco no es mayor a diez xD";
+	Escribir "Imposible,diez no es mayor a cinco xD, nunca se mostrará este mensaje";
 Fin Si
 ```
 
