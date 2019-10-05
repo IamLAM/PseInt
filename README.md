@@ -170,7 +170,7 @@ SiNo
 	Escribir "Imposible, cinco no es mayor a diez xD";
 Fin Si
 ```
-
+***Código de ejemplo:***[Estructura simple](https://github.com/IamLAM/PseInt/blob/master/EstructurasSimples.psc) 
 7. ***Estructuras anidadas*** 
 8. Estructura múltiple ***SEGUN*** :zap:
  ```PseInt
