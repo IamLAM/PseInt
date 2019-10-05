@@ -202,7 +202,7 @@ SiNo
 Fin Si
 ```
 
-***Código de ejemplo:***[Estructura si anidada](https://github.com/IamLAM/PseInt/blob/master/EstructurasSimples.psc) 
+***Código de ejemplo:***[Estructura si anidada](https://github.com/IamLAM/PseInt/blob/master/EstructurasAnidadas.psc) 
 
 
 
