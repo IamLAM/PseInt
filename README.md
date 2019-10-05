@@ -170,7 +170,7 @@ SiNo
 	Escribir "Imposible, cinco no es mayor a diez xD";
 Fin Si
 ```
-***Código de ejemplo:***[Estructura simple](https://github.com/IamLAM/PseInt/blob/master/EstructurasSimples.psc) 
+***Código de ejemplo:***[Estructura si simple](https://github.com/IamLAM/PseInt/blob/master/EstructurasSimples.psc) 
 
 7. ***Estructuras anidadas*** :La estructura ***si...entonces anidada*** consiste en agregar otra condición si...entonces dentro de otra, tanto en el caso que la condición sea verdadera y sea falsa.Puede anidarse las veces que sean necesarias. Para clarificar este concepto, observar los siguientes ejemplos:
 
@@ -202,6 +202,7 @@ SiNo
 Fin Si
 ```
 
+***Código de ejemplo:***[Estructura si anidada](https://github.com/IamLAM/PseInt/blob/master/EstructurasSimples.psc) 
 
 
 
