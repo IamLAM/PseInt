@@ -151,7 +151,7 @@ FALSO     | VERDADERO | VERDADERO
 
 
 
-6. Estructuras simples ***Si Entonces*** :zap:
+6. Estructuras simples ***Si Entonces*** :zap:. La estructura si...entonces con el apoyo de expresiones lógicas y relacionales ayudan a tomar decisiones. La estructuras si...entonces simples, solo contemplan un solo ***si*** y un ***sino***, es decir, un camino si la condición es verdadera y otro camino si es falsa.
 
 
 ```PseInt
