@@ -6,6 +6,8 @@ Algoritmo recibos
 	Si respuesta="si" Entonces
 		Escribir "Voy a pagar el mismo dia los recibos";
 	SiNo
-		Escribir "Pagaré en diferente dia los recibo";	acciones_por_falso
+		Escribir "Pagaré en diferente dia los recibo";
 	Fin Si
 FinAlgoritmo
+
+
