@@ -224,6 +224,7 @@ Fin Segun
 
 Por ejemplo:
  ```PseInt
+ valor<-5;
 Segun valor Hacer
 		1:
 			Escribir "Tu valor es uno";
