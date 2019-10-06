@@ -1,12 +1,15 @@
 Algoritmo multiples
-	Segun variable_numerica Hacer
-		opcion_1:
-			secuencia_de_acciones_1
-		opcion_2:
-			secuencia_de_acciones_2
-		opcion_3:
-			secuencia_de_acciones_3
+	Definir valor Como Entero;
+	Escribir "Proporciona un valor"
+	Leer valor;
+	Segun valor Hacer
+		1:
+			Escribir "Tu valor es uno";
+		2:
+			Escribir "Tu valor es dos";
+		3:
+			Escribir "Tu valor es tres";
 		De Otro Modo:
-			secuencia_de_acciones_dom
+			Escribir "Tu valor es: ",valor;
 	Fin Segun
 FinAlgoritmo
