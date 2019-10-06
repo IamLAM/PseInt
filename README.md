@@ -206,7 +206,7 @@ Fin Si
 
 
 
-8. ***Estructura múltiple SEGUN*** (switch):zap:
+8. ***Estructura múltiple SEGUN*** (switch):zap: Esta estructura de control, permite comparar una variable en un conjunto de casos u opciones, si alguno de estos coincide con el valor de la variable, ejecutará los procedimientos y saldrá de la estructura switch o según. Si la variable no coincide en ninguno de los casos, se ejecutará por defecto la opción ***De otro modo***
 
 
  ```PseInt
@@ -235,6 +235,7 @@ Segun valor Hacer
 			Escribir "Tu valor es: ",valor;
 Fin Segun
 ```
+***Código de ejemplo:***[Estructura multiple switch](https://github.com/IamLAM/PseInt/blob/master/EstructurasMultiples.psc) 
 
 
 9. Estructura de repetición ***MIENTRAS*** :zap:
