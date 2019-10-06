@@ -172,7 +172,7 @@ Fin Si
 ```
 ***Código de ejemplo:***[Estructura si simple](https://github.com/IamLAM/PseInt/blob/master/EstructurasSimples.psc) 
 
-7. ***Estructuras anidadas*** :La estructura ***si...entonces anidada*** consiste en agregar otra condición si...entonces dentro de otra, tanto en el caso que la condición sea verdadera y sea falsa.Puede anidarse las veces que sean necesarias. Para clarificar este concepto, observar los siguientes ejemplos:
+7. ***Estructuras anidadas*** (Si Entonces) :La estructura ***si...entonces anidada*** consiste en agregar otra condición si...entonces dentro de otra, tanto en el caso que la condición sea verdadera y sea falsa.Puede anidarse las veces que sean necesarias. Para clarificar este concepto, observar los siguientes ejemplos:
 
 ```PseInt
 Si expresion_logica Entonces
@@ -206,7 +206,9 @@ Fin Si
 
 
 
-8. Estructura múltiple ***SEGUN*** :zap:
+8. ***Estructura múltiple SEGUN*** (switch):zap:
+
+
  ```PseInt
 Segun variable_numerica Hacer
 	opcion_1:
@@ -219,6 +221,22 @@ Segun variable_numerica Hacer
 		secuencia_de_acciones_dom
 Fin Segun
 ```
+
+Por ejemplo:
+ ```PseInt
+Segun valor Hacer
+		1:
+			Escribir "Tu valor es uno";
+		2:
+			Escribir "Tu valor es dos";
+		3:
+			Escribir "Tu valor es tres";
+		De Otro Modo:
+			Escribir "Tu valor es: ",valor;
+Fin Segun
+```
+
+
 9. Estructura de repetición ***MIENTRAS*** :zap:
 
 
