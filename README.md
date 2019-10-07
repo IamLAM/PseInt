@@ -288,6 +288,14 @@ Por ejemplo:
 		secuencia_de_acciones
 	Fin Para
 ```
+Por ejemplo: 
+
+```PseInt
+	Para a<-0 Hasta 10 Con Paso 1 Hacer
+		Escribir a;
+	Fin Para
+```
+
 12. Arreglos unidimensionales
 13. Arreglos bidimensionales
 14. Operaciones básicas con arreglos unidimensionales
