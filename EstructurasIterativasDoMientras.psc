@@ -1,5 +1,12 @@
 Algoritmo iterativas
+	
+	Definir num Como Entero;
+	num<-1;
+	
 	Repetir
-		secuencia_de_acciones
-	Hasta Que expresion_logica
+		
+		num=num+1;
+		Escribir num;
+		
+	Hasta Que num<10
 FinAlgoritmo
