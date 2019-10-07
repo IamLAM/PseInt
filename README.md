@@ -252,7 +252,7 @@ Por ejemplo:
 
 ```PseInt
 	Mientras a<10 Hacer
-		a=a+1;
+		a<-a+1;
 	Fin Mientras
 ```
 
@@ -272,7 +272,7 @@ Por ejemplo:
  
  ```PseInt
 	Repetir
-		a=a+1;
+		a<-a+1;
 	Hasta Que a<10
 
 ```
