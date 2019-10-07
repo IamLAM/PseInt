@@ -5,7 +5,7 @@ Algoritmo iterativas
 	
 	Repetir
 		
-		num=num+1;
+		num<-num+1;
 		Escribir num;
 		
 	Hasta Que num<10
