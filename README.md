@@ -259,7 +259,7 @@ Por ejemplo:
 
 ***Código de ejemplo:***[Estructura Mientras](https://github.com/IamLAM/PseInt/blob/master/EstructurasIterativasMientras.psc) 
 
-10. Estructura de repetición ***REPETIR*** :zap:
+10. Estructura de repetición ***REPETIR*** (do...while) :zap:Es una estructura que sirve para ciclar o repetir n veces un conjunto de instrucciones o acciones. La diferencia respecto a while, es que por lo menos ingresará una vez antes de validar  la expresión relacional dentro del ***Hasta que***. Por lo tanto, los valores que hayas capturado previamente, se comparan dentro de este. Si la condición es válida,estará repitiendose el ciclo (TRUE), de lo contrario será FALSE y terminará el ciclo.Es importante incluir un contador incremental o decremental que ayude a finalizar el ciclo, de lo contrario se repetirá indefinidamente<br>
 
 ```PseInt
 	Repetir
