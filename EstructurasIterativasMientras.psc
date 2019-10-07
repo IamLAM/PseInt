@@ -4,7 +4,7 @@ Algoritmo iterativo
 	Mientras num<10 Hacer
 		
 		
-		num=num+1;
+		num<-num+1;
 		Escribir num;
 		
 	Fin Mientras
