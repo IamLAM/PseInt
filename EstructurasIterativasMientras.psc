@@ -1,9 +1,12 @@
 Algoritmo iterativo
-	
-	
-	
-	Mientras expresion_logica Hacer
-		secuencia_de_acciones
+	Definir num Como Entero;
+	num<-1;
+	Mientras num<10 Hacer
+		
+		
+		num=num+1;
+		Escribir num;
+		
 	Fin Mientras
 	
 FinAlgoritmo
