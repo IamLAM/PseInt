@@ -248,6 +248,15 @@ Fin Segun
 	Fin Mientras
 ```
 
+Por ejemplo:
+
+```PseInt
+	Mientras a<10 Hacer
+		a=a+1;
+	Fin Mientras
+```
+
+
 ***Código de ejemplo:***[Estructura Mientras](https://github.com/IamLAM/PseInt/blob/master/EstructurasIterativasMientras.psc) 
 
 10. Estructura de repetición ***REPETIR*** :zap:
