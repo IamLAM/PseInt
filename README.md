@@ -268,6 +268,16 @@ Por ejemplo:
 
 ```
  
+ Por ejemplo:
+ 
+ ```PseInt
+	Repetir
+		a=a+1;
+	Hasta Que a<10
+
+```
+ 
+  
  ***Código de ejemplo:***[Estructura Repetir...Hasta que](https://github.com/IamLAM/PseInt/blob/master/EstructurasIterativasDoMientras.psc) 
 
  
