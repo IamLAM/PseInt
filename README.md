@@ -296,6 +296,11 @@ Por ejemplo:
 	Fin Para
 ```
 
+***Código de ejemplo:***[Estructura Para](https://github.com/IamLAM/PseInt/blob/master/EstructurasIterativasPara.psc) 
+
+
+
+
 12. Arreglos unidimensionales
 13. Arreglos bidimensionales
 14. Operaciones básicas con arreglos unidimensionales
