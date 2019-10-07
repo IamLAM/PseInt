@@ -282,7 +282,7 @@ Por ejemplo:
 
  
  
-11. Estructura de repetición ***PARA*** :zap:
+11. Estructura de repetición ***PARA*** (for) :zap: Es una estructura que sirve para ciclar o repetir n veces un conjunto de instrucciones. La diferencia respecto a while y do, es que debes indicar un valor de inicial,una expresión relacional y un valor incremental o decremental dentro de la estructura for. Con estos tres elementos es posible ciclar n veces, el primer elemento nos indica desde donde comenzará a contar el ciclo, el segundo elemento ayudará a determinar en que momento se cumple o no con la expresión y el tercer elemento contará de forma incremental o decremental hasta que se cumpla con el segundo elemento o expresión<br>
 ```PseInt
 	Para variable_numerica<-valor_inicial Hasta valor_final Con Paso paso Hacer
 		secuencia_de_acciones
