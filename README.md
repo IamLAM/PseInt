@@ -239,7 +239,7 @@ Fin Segun
 ***Código de ejemplo:***[Estructura multiple switch](https://github.com/IamLAM/PseInt/blob/master/EstructurasMultiples.psc) 
 
 
-9. Estructura de repetición ***MIENTRAS*** (while):zap: Es una estructura que sirve para ciclar o repetir n veces un conjunto de instrucciones o acciones. Entre la palabra Mientras y la palabra hacer se deben añadir expresiones relacionales o lógicas como: a<6, (a==n)||(a>10),a!=5, a>=8, a<=1, entre muchas otras. Por lo tanto, los valores que hayas capturado previamente, se comparan dentro de esta estructura. Si la condición es válida,estará repitiendose el ciclo (TRUE), de lo contrario será FALSE. Es importante incluir un contador incremental o decremental que ayude a finalizar el ciclo, de lo contrario se repetirá indefinidamente<br>
+9. Estructura de repetición ***MIENTRAS*** (while):zap: Es una estructura que sirve para ciclar o repetir n veces un conjunto de instrucciones o acciones. Entre la palabra Mientras y la palabra hacer se deben añadir expresiones relacionales o lógicas como: a<6, (a==n)||(a>10),a!=5, a>=8, a<=1, entre muchas otras. Por lo tanto, los valores que hayas capturado previamente, se comparan dentro de esta estructura. Si la condición es válida,estará repitiendose el ciclo (TRUE), de lo contrario será FALSE y terminará el ciclo. Es importante incluir un contador incremental o decremental que ayude a finalizar el ciclo, de lo contrario se repetirá indefinidamente<br>
 
 
 ```PseInt
