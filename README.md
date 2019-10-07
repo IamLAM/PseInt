@@ -269,17 +269,3 @@ Fin Segun
 14. Operaciones básicas con arreglos unidimensionales
 15. Funciones
 16. Serie de ejercicios
-	* Nivel de procedencia de operadores
-	* Métodos de ordenamiento
-    	* Burbuja
-    	* Burbuja mejorado
-    * Par e impar
-    * Solicita una pizza
-    * Adivina el numero
-    * Algebra básica
-	* Gestión de agenda
-    * Calculo de figuras
-    * Adivina el acertijo
-    * Conversiones 
-    * Simular un reloj digital
-    * Tienda de autoservicio
