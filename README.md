@@ -268,6 +268,10 @@ Por ejemplo:
 
 ```
  
+ ***Código de ejemplo:***[Estructura Repetir...Hasta que](https://github.com/IamLAM/PseInt/blob/master/EstructurasIterativasDoMientras.psc) 
+
+ 
+ 
 11. Estructura de repetición ***PARA*** :zap:
 ```PseInt
 	Para variable_numerica<-valor_inicial Hasta valor_final Con Paso paso Hacer
