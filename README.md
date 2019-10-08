@@ -301,8 +301,3 @@ Por ejemplo:
 
 
 
-12. Arreglos unidimensionales
-13. Arreglos bidimensionales
-14. Operaciones básicas con arreglos unidimensionales
-15. Funciones
-16. Serie de ejercicios
